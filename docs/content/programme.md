@@ -19,7 +19,7 @@ program:
       time: 09:15 - 10:00
       title: Business cards
       description: |2-
-          Rapid presentations per person. [slidedeck](https://docs.google.com/presentation/...
+          Rapid presentations per person. [slidedeck](https://docs.google.com/presentation/d/1SVeNunNGn6rHlXJ6hWxIcyjcOGQ3AMUt3FsewA_XIhE/edit?usp=sharing)
       highlight: true
     - day: Wednesday
       time: 10:00 - 11:00

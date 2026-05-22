@@ -5,7 +5,7 @@ active: true
 title: Participants
 ---
 
-**<i class="fa-solid fa-people-group"></i> The registration is now open [here](http://).**
+**<i class="fa-solid fa-people-group"></i> The registration is now open [here](https://docs.google.com/forms/d/e/1FAIpQLSd88cqXnIAvcn2AxmC70wasrijybWQ2FU1Sv-9KJCkzc68bHg/viewform?usp=dialog).**
 
 * There are no registration fees to participate in this workshop. (See logistics)
 

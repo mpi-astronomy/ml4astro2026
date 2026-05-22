@@ -1,6 +1,6 @@
-# ML4Astro 2025 conference event
+# ML4Astro 2026 conference event
 
-Date: July 8, 2025
+Date: June 24, 2026
 
 This repository contains a website generator that can make your conference website.
 

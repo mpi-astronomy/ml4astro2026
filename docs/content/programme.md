@@ -22,33 +22,33 @@ program:
           Rapid presentations per person. [slidedeck](https://docs.google.com/presentation/d/1SVeNunNGn6rHlXJ6hWxIcyjcOGQ3AMUt3FsewA_XIhE/edit?usp=sharing)
       highlight: true
     - day: Wednesday
-      time: 10:00 - 11:00
+      time: 10:00 - 10:50
       title: Highlight presentations (I)
       description: |2-
           *Rapid presentations to showcase ML application in astronomy*
       highlight: true
     - day: Wednesday
-      time: 11:00 - 11:30
+      time: 10:50 - 11:30
       title: Coffee break
       description:
       highlight: true
     - day: Wednesday
-      time: 11:30 - 12:30
+      time: 11:30 - 12:20
       title: Highlight presentations (II)
       highlight: true
       description: |2-
         *Rapid presentations to showcase ML application in astronomy*
+    - day: Wednesday
+      time: 12:20 - 12:30
+      title: Unconference planning 
+      description: |2-
+        Unconference topic selection and room allocation
       highlight: true
     - day: Wednesday
       time: 12:30 - 13:50
       title: Lunch break
       highlight: true
       description:
-    - day: Wednesday
-      time: 13:50 - 14:00
-      title: Daily Unconference Planning
-      highlight: true
-      description: Unconference topic selection and room allocation
     - day: Wednesday
       time: 14:00 - 15:00
       title: Unconference
@@ -78,5 +78,3 @@ program:
         Reports on the unconference sessions. Sharing results and feedback.
       highlight: true
 ---
-
-<i class="fa-regular fa-calendar" style="font-size:26px";></i> _The program is a template and will be updated soon._

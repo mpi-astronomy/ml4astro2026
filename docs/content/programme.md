@@ -25,7 +25,10 @@ program:
       time: 10:00 - 10:50
       title: Highlight presentations (I)
       description: |2-
-          *Rapid presentations to showcase ML application in astronomy*
+        *Rapid presentations to showcase ML application in astronomy*
+        - L. Storcks (IWR): "Possibilities and limitations of differentiable simulators"
+        - M. Gronke (ARI): "Understanding Lyman-alpha observables using machine learning"
+
       highlight: true
     - day: Wednesday
       time: 10:50 - 11:30
@@ -38,6 +41,8 @@ program:
       highlight: true
       description: |2-
         *Rapid presentations to showcase ML application in astronomy*
+          - C. Martinez Harris (MPIA): "A Self-Supervised Model for Interpreting Galaxy Spectra from JWST"
+          - L. Branca (IWR): "A User-Ready Surrogate Framework for Interpolating High-Dimensional Stellar Evolution Tables"
     - day: Wednesday
       time: 12:20 - 12:30
       title: Unconference planning 
